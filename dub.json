@@ -6,7 +6,7 @@
 	"description": "Some extra bits for dimgui",
 	"license": "BSL-1.0",
 	"targetType": "sourceLibrary",
-	"name": "dimgui_extras",
+	"name": "herringway_dimgui_extras",
 	"configurations": [
 		{
 			"name": "sdl3",
